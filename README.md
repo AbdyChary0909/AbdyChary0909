@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @AbdyChary0909
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on companies to work with them
-- 📫 How to reach me abchary2006@gmail.com
+- 👋 Hi, I’m Abdyrahman Charybayev and I am freshman in BRMHS. 
+- 👀 I’m interested in making people's lives better with Computer Programming;
+- 🌱 I’m currently intrested in advanced Computer Science and Cybersecurity;
+- 💞️ I’m looking to create projects and help people's live;
+- 📫 How to reach me:
+            Email: abchary2006@gmail.com
+            Instagram: @mr.abcha
+            
 
 

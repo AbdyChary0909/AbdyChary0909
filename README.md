@@ -3,8 +3,8 @@
 - 🌱 I’m currently intrested in advanced Computer Science and Cybersecurity;
 - 💞️ I’m looking to create projects and help people's live;
 - 📫 How to reach me:
-            Email: abchary2006@gmail.com
-            Instagram: @mr.abcha
+            Email: abchary2006@gmail.com;
+            Instagram: @mr.abcha;
             
 
 
